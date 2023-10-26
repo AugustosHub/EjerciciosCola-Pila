@@ -138,7 +138,7 @@ int main()
                     puts("-----------------");
                     printf("Elegir opción: ");
                     scanf("%d",&op2);
-                    while(op>2 || op<1){
+                    while(op2>2 || op2<1){
                         puts("------------------------------------");
                         puts("¡Opción no valida, intente de nuevo!");
                         puts("------------------------------------");
