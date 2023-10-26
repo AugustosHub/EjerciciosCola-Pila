@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698197337 source:c:\users\user\desktop\facultad\listas\ejercicios pila-cola\ejerciciopila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698286815 source:c:\users\user\desktop\facultad\listas\ejercicios pila-cola\pilaestaticaabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
